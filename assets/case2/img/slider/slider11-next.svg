@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Next_Btn" data-name="Next Btn" transform="translate(-1248 -980)">
+    <circle id="Ellipse_46" data-name="Ellipse 46" cx="15" cy="15" r="15" transform="translate(1248 980)" fill="#1f6cb6"/>
+    <g id="next" transform="translate(1206.138 988.19)">
+      <path id="Chevron_Right_1_" d="M61.413,6.324,55.288.2a.688.688,0,1,0-.974.972L59.954,6.81l-5.639,5.637a.688.688,0,1,0,.974.972L61.414,7.3A.694.694,0,0,0,61.413,6.324Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

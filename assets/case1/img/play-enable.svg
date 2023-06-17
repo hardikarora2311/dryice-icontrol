@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="Group_815" data-name="Group 815" transform="translate(11280 2878)">
+    <g id="Group_815-2" data-name="Group 815" transform="translate(-11280 -2878)">
+      <circle id="Ellipse_323" data-name="Ellipse 323" cx="14.5" cy="14.5" r="14.5" fill="#316cf4"/>
+      <g id="Path_568" data-name="Path 568" transform="translate(1.434 1.434)">
+        <path id="Path_570" data-name="Path 570" d="M13.627,0A13.627,13.627,0,1,1,0,13.627,13.827,13.827,0,0,1,4.639,3.384,12.568,12.568,0,0,1,7.667,1.338,13.419,13.419,0,0,1,13.627,0Z" fill="none"/>
+        <path id="Path_571" data-name="Path 571" d="M13.627,1.434A12.023,12.023,0,0,0,8.334,2.608l-.012.006a11.223,11.223,0,0,0-2.7,1.817,12.408,12.408,0,0,0-4.184,9.194A12.192,12.192,0,1,0,13.629,1.434m0-1.434A13.627,13.627,0,1,1,0,13.627,13.827,13.827,0,0,1,4.639,3.384,12.568,12.568,0,0,1,7.667,1.339,13.419,13.419,0,0,1,13.627,0Z" transform="translate(0 0.001)" fill="#316cf4"/>
+      </g>
+    </g>
+    <path id="Polygon_80" data-name="Polygon 80" d="M6.019.775a.5.5,0,0,1,.872,0l5.6,9.955a.5.5,0,0,1-.436.745H.855a.5.5,0,0,1-.436-.745Z" transform="translate(-11257.655 -2870.01) rotate(91)" fill="#fff"/>
+  </g>
+</svg>
