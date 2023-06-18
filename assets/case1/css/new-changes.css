@@ -874,7 +874,7 @@ body.slider-hclslide28    .overlay-bg-new {
 
 /*slider animated close 1*/
 body.slider-hclslide29   .highlite-images {
-    width: 930px !important;
+    /* width: 930px !important; */
     position: absolute;
     top: 353px;
     left: 31px;
@@ -942,7 +942,7 @@ body.slider-hclslide30      .overlay-bg-new {
 }
 /*slider animated close 1*/
 body.slider-hclslide31    .highlite-images {
-    width: 930px !important;
+    /* width: 930px !important; */
     position: absolute;
     top: 353px;
     left: 31px;
