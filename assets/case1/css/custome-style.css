@@ -526,7 +526,7 @@ left: 287px;
 /*   ------------------------------  */
 .case.sl7.active-slide.animated2.fadeIn {
     width: 100%;
-    max-width: 100%;
+    /* max-width: 100%; */
     
 }
  .case.sl7 .popup-nsd-bx.bot-arw {
