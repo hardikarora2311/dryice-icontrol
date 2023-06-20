@@ -409,7 +409,7 @@
             <div class="highlite-images next-arw puls">
               <img src="assets/case1/img/pic1 (5).png" />
             </div>
-            <div class="popup-nsd-bx lt-arw tooltip-s5">
+            <div class="popup-nsd-bx lt-arw tooltip-s5" id="popup-11">
               <p>
                 <b>Not breached: </b>The targets that are not-breached and are
                 in a healthy state.
@@ -427,10 +427,10 @@
           <!-- <img src="assets/case1/img/try/test.svg" > -->
           <div class="slider-top-space">
             <img src="assets/case1/img/pic1.png" />
-            <div class="highlite-images next-arw puls">
+            <div class="highlite-images next-arw puls" id="image-12">
               <img src="assets/case1/img/pic1 (6).png" />
             </div>
-            <div class="popup-nsd-bx lt-arw tooltip-s5">
+            <div class="popup-nsd-bx lt-arw tooltip-s5" id="popup-12">
               <p>
                 <b>Completed: </b>The targets for which monitoring is completed
                 today.
@@ -965,15 +965,15 @@
           data-page="32"
         >
           <div class="slider-top-space">
-            <div class="highlite-images next-arw">
+            <div class="highlite-images next-arw" id="image-32">
               <img src="assets/case1/img/new-slide/new2.png" />
             </div>
             <!-- <img src="assets/case1/img/new-slide/new2.png" /> -->
-            <div class="popup-nsd-bx lt-arw">
+            <div class="popup-nsd-bx lt-arw" id="popup-32">
               <p>
                 A new empty dashboard will be created. You can click on ‘Add
                 widget’ button to add multiple widgets customized as per your
-                preferences
+                preferences.
               </p>
               <!-- <div class="next-arw puls">Next</div> -->
             </div>
@@ -988,15 +988,13 @@
           data-page="33"
         >
           <div class="slider-top-space">
-            <div class="highlite-images next-arw">
+            <div class="highlite-images next-arw" id="img-33">
               <img src="assets/case1/img/new-slide/new3-popup.png" />
             </div>
             <img src="assets/case1/img/new-slide/new3.png" />
-            <div class="popup-nsd-bx lt-arw">
+            <div class="popup-nsd-bx lt-arw" id="popup-33">
               <p>
-                A new empty dashboard will be created. You can click on ‘Add
-                widget’ button to add multiple widgets customized as per your
-                preferences
+                You can slice and dice the data in widgets using the given filtration buttons. The widget will automatically change to represent the data in best adaptable format based on the filters selected.
               </p>
               <!-- <div class="next-arw puls">Next</div> -->
             </div>
@@ -1136,8 +1134,8 @@
             <div class="highlite-images next-arw puls">
               <img src="assets/case1/img/new-slide/new8-popup.png" />
             </div>
-            <div class="popup-nsd-bx lt-arw">
-              <p>Click on Save after filling the pre-requisite info</p>
+            <div class="popup-nsd-bx bot-arw" id="popup-42">
+              <p>Click on Save after filling the pre-requisite info.</p>
               <div class="next-arw next-mn-links"></div>
             </div>
           </div>
@@ -2321,6 +2319,8 @@ class="slider-7-header"
 
       $(document).ready(function () {
         $("#page-range").val(1);
+        disableMute(); //muting
+        localStorage.setItem("isAudioEnabled", "0");
 
         Swal.fire({
           title: "Do you want to enable audio ?",
