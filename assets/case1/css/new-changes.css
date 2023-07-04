@@ -19,6 +19,8 @@
   height: 100%;
   /*height: calc(100% + 59px);*/
   background: rgb(65 170 188 / 63%);
+  background: rgb(65 170 188 / 20%);
+
   z-index: 1;
   top: 60px;
 }

@@ -1948,3 +1948,10 @@ body.slider-hclslide22 .left-section-fix-bar:before {
     padding: 10px;
   }
 
+
+  #page-1-icons{
+    position: absolute;
+    height: 90px;
+    top: 60%;
+    left: 65%;
+  }
