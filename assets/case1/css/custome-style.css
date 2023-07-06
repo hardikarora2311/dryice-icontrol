@@ -229,7 +229,7 @@ a.setings-nsd-icns {
 .case.active-slide {
   margin-bottom: 20px;
   position: relative;
-  transition-duration: 0.6s;
+  transition-duration: 0.7s;
   pointer-events: all;
   visibility: visible !important;
   display: block;
@@ -240,8 +240,8 @@ a.setings-nsd-icns {
   object-fit: contain;
 }
 .animated2 {
-  -webkit-animation-duration: 0.6s;
-  animation-duration: 0.6s;
+  -webkit-animation-duration: 0.7s;
+  animation-duration: 0.7s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
