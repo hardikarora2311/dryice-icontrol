@@ -18,8 +18,9 @@
   width: 100%;
   height: 100%;
   /*height: calc(100% + 59px);*/
-  background: rgb(65 170 188 / 63%);
-  background: rgb(65 170 188 / 20%);
+  /* background: rgb(65 170 188 / 63%); */
+  background: rgb(65 170 188 / 10%);
+  /* background: rgba(0, 0, 0, 0.2); */
 
   z-index: 1;
   top: 60px;
@@ -122,7 +123,7 @@ body.slider-hclslide7 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 61px;
@@ -157,7 +158,7 @@ body.slider-hclslide8 .left-section-fix-bar:after {
   width: 100%;
   height: 100%;
   content: "";
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
 }
 body.slider-hclslide8 .ic-menubar-left {
   z-index: 4;
@@ -184,7 +185,7 @@ body.slider-hclslide8 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -207,7 +208,7 @@ body.slider-hclslide9 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -262,7 +263,7 @@ body.slider-hclslide10 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -298,7 +299,7 @@ body.slider-hclslide11 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -336,7 +337,7 @@ body.slider-hclslide12 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -369,7 +370,7 @@ body.slider-hclslide13 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -422,7 +423,7 @@ body.slider-hclslide14 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -445,7 +446,7 @@ body.slider-hclslide15 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -488,7 +489,7 @@ body.slider-hclslide16 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -525,7 +526,7 @@ body.slider-hclslide17 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -553,7 +554,7 @@ body.slider-hclslide18 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -579,7 +580,7 @@ body.slider-hclslide19 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -607,7 +608,7 @@ body.slider-hclslide20 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -634,7 +635,7 @@ body.slider-hclslide21 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -660,7 +661,7 @@ body.slider-hclslide22 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -687,7 +688,7 @@ body.slider-hclslide23 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -708,7 +709,7 @@ body.slider-hclslide24 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -735,7 +736,7 @@ body.slider-hclslide25 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -757,7 +758,7 @@ body.slider-hclslide26 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -773,7 +774,7 @@ body.slider-hclslide27 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 62px;
@@ -824,7 +825,7 @@ body.slider-hclslide28 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 61px;
@@ -870,7 +871,7 @@ body.slider-hclslide29 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -890,7 +891,7 @@ body.slider-hclslide30 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -936,7 +937,7 @@ body.slider-hclslide31 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -955,7 +956,7 @@ body.slider-hclslide32 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -1013,7 +1014,7 @@ body.slider-hclslide33 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -1048,7 +1049,7 @@ body.slider-hclslide34 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -1068,7 +1069,7 @@ body.slider-hclslide35 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -1110,7 +1111,7 @@ body.slider-hclslide36 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 64px;
@@ -1132,7 +1133,7 @@ body.slider-hclslide38-1 .top-fixed-header:after {
   position: absolute;
   left: 0;
   right: 0;
-  background: rgb(65 170 188 / 63%);
+  /* background: rgb(65 170 188 / 63%); */
   content: "";
   width: 100%;
   height: 61px;
