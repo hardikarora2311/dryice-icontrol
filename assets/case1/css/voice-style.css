@@ -2017,3 +2017,24 @@ body.slider-hclslide22 .left-section-fix-bar:before {
     top: 61%;
     left: 75%;
   }
+
+
+  #logo-bg{
+      position: absolute;
+      /* height: 70px; */
+      top: 10%;
+      width: 25%;
+      /* border: 2px solid red; */
+      left: 40%;
+      /* display: none; */
+  }
+
+  #logo-black{
+    position: absolute;
+    /* height: 70px; */
+    top: 6%;
+    width: 18%;
+    /* border: 2px solid red; */
+    left: 42%;
+    /* display: none; */
+}
