@@ -391,9 +391,9 @@ body.case.page15 .highlite-images.next-arw {
 
 .case.page17 .highlite-images.next-arw {
   position: absolute;
-  left: 33%;
-  width: 2.5%;
-  top: 36%;
+  left: 33.3%;
+  width: 2.8%;
+  top: 36.5%;
   z-index: 99;
   border: 3px solid #4dc0ed;
   border-radius: 9px;
@@ -407,9 +407,9 @@ body.case.page15 .highlite-images.next-arw {
 }
 .case.page19 .highlite-images.next-arw {
   position: absolute;
-  left: 92.5%;
+  left: 92.8%;
   width: 2.5%;
-  top: 37.5%;
+  top: 37%;
   z-index: 99;
   border: 3px solid #4dc0ed;
   border-radius: 9px;
@@ -596,7 +596,7 @@ body.case.page15 .highlite-images.next-arw {
   position: absolute;
   left: 7.5%;
   width: 3%;
-  top: 12.3%;
+  top: 11.5%;
   z-index: 99;
   border: 3px solid #4dc0ed;
   border-radius: 9px;
@@ -625,9 +625,9 @@ body.case.page15 .highlite-images.next-arw {
 
 .case.page9 .highlite-images.next-arw {
   position: absolute;
-  left: 5.8%;
+  left: 5%;
   width: 3%;
-  top: 12.3%;
+  top: 11.5%;
   z-index: 99;
   border: 3px solid #4dc0ed;
   border-radius: 9px;
@@ -655,9 +655,9 @@ body.case.page15 .highlite-images.next-arw {
 
 .case.page10 .highlite-images.next-arw {
   position: absolute;
-  left: 5%;
+  left: 4.4%;
   width: 3%;
-  top: 12.3%;
+  top: 11.5%;
   z-index: 99;
   border: 3px solid #4dc0ed;
   border-radius: 9px;
@@ -685,9 +685,9 @@ body.case.page15 .highlite-images.next-arw {
 
 .case.page11 .highlite-images.next-arw {
   position: absolute;
-  left: 3%;
+  left: 2.7%;
   width: 3%;
-  top: 12.3%;
+  top: 11.5%;
   z-index: 99;
   border: 3px solid #4dc0ed;
   border-radius: 9px;
@@ -716,7 +716,7 @@ body.case.page15 .highlite-images.next-arw {
 .case.page12 .highlite-images.next-arw {
   position: absolute;
   left: 1%;
-  width: 2.5%;
+  width: 3%;
   top: 13%;
   z-index: 99;
   border: 3px solid #4dc0ed;
@@ -805,9 +805,9 @@ body.case.page15 .highlite-images.next-arw {
 
 .case.page13 .highlite-images.next-arw {
   position: absolute;
-  left: 2%;
+  left: 0%;
   width: 12%;
-  top: 17%;
+  top: 16%;
   z-index: 99;
   border: 3px solid #4dc0ed;
   border-radius: 9px;
@@ -835,9 +835,9 @@ body.case.page15 .highlite-images.next-arw {
 
 .case.page14 .highlite-images.next-arw {
   position: absolute;
-  left: 13%;
+  left: 10.5%;
   width: 12%;
-  top: 14%;
+  top: 13.5%;
   z-index: 99;
   border: 3px solid #4dc0ed;
   border-radius: 9px;
@@ -1958,7 +1958,8 @@ body.slider-hclslide22 .left-section-fix-bar:before {
 
   #image-12{
     left: 1% !important;
-    top: 13% !important;
+    top: 11.5% !important;
+    width: 2.8%;
   }
 
   #popup-12{
