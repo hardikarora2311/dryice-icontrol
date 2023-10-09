@@ -2175,3 +2175,16 @@ body.slider-hclslide22 .left-section-fix-bar:before {
   z-index: 12;
   /* display: none; */
 }
+
+
+.coming-soon{
+  background-color: white;
+  padding: 0.5em ;
+  position: absolute;
+  width: max-content;
+  border-radius: 1em;
+  font-weight: 600;
+  top: -40%;
+  left: 100%;
+  color: #000;
+}
